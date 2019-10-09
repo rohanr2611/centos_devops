@@ -1,2 +1,2 @@
 this is 5.txt from test after modification
-adding line to 5.txt
+adding line to 5.txt after conflict resolution
